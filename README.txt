@@ -3,7 +3,7 @@
 Investigación dedicada al análisis de seguridad en Large Language Models (LLMs) y sistemas de IA.
 
 ## Metodología: ¿Qué herramientas uso? ¿Qué procesos sigo para el testing?
-Uso todo lo que sé y herramientas generativas de texto.
+Uso todo lo que sé y herramientas generativas de texto. Para LLMs en local uso Ollama.
 
 ## 🛡️ Áreas de Enfoque
 - Prompt Injection & Jailbreaking.
