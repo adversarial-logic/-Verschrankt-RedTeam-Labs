@@ -12,7 +12,7 @@ Uso todo lo que sé y herramientas generativas de texto. Para LLMs en local uso 
 - Evaluación de filtros de seguridad (Safety Alignment).
 
 ## 🚀 Investigaciones Recientes
-- [Título del Proyecto 1](link)
+- [Llama3.1_Bypass_01](github.com/adversarial-logic/-Verschrankt-RedTeam-Labs/blob/main/jailbreaks/Llama3_1_Bypass_01.md)
 - [Título del Proyecto 2](link)
 
 ---
